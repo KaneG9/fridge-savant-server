@@ -1,5 +1,6 @@
 /node_modules
-/config
+/config/config.env
+/config/default.json
 /coverage
 
 /fridge-savant-client/
